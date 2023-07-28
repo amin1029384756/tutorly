@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "985153327252",
+    "project_id": "student-tutorly",
+    "storage_bucket": "student-tutorly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985153327252:android:69b6b15b90502ad8abe481",
+        "android_client_info": {
+          "package_name": "com.example.tutorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985153327252-7d25rbe8f92f90scjcq2tm9p0rs2eaca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPVmtv_tZ_5FipfILXM7OXLoE16GODvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985153327252-7d25rbe8f92f90scjcq2tm9p0rs2eaca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985153327252:android:954ebbcb12a2d800abe481",
+        "android_client_info": {
+          "package_name": "come.example.tutorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985153327252-7d25rbe8f92f90scjcq2tm9p0rs2eaca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPVmtv_tZ_5FipfILXM7OXLoE16GODvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985153327252-7d25rbe8f92f90scjcq2tm9p0rs2eaca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
